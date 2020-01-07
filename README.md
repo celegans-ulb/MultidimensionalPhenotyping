@@ -1,2 +1,6 @@
 # MultidimensionalPhenotyping
 Multidimensional phenotyping predicts lifespan and quantifies health in C. elegans (Martineau et al., 2019)
+
+Céline N. Martineau, André E. X. Brown, and Patrick Laurent
+
+Ageing affects a wide range of phenotypes at all scales, but an objective measure of ageing remains challenging, even in simple model organisms. To measure the ageing process, we characterized the sequence of alterations of multiple phenotypes at organismal scale. Hundreds of morphological, postural, and behavioral features were extracted from high resolutions videos. Out of the 1019 features extracted, 896 are ageing biomarkers, defined as those that show a significant correlation with relative age (age divided by lifespan). We used support vector regression to predict age and lifespan of individual C. elegans and sequential feature selection to identify the most predictive subset of features. The quality of these predictions increased with the number of features added to the model, supporting the use of multiple biomarkers to quantify ageing. We define the rate of ageing as how quickly animals move through phenotype space and find that short lived-animals aged faster than long-lived animals. In our conditions, for isogenic wild-type worms, the health progression of the individuals is coupled to their lifespan. 
